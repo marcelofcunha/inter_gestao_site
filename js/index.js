@@ -84,7 +84,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-// Adicione este código ao seu JavaScript existente
 document.addEventListener('DOMContentLoaded', function() {
     // Seleciona todos os links do navbar
     const navLinks = document.querySelectorAll('.ul_navbar a[href^="#"]');
@@ -118,7 +117,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-// Adicione este código ao seu JavaScript existente
 document.addEventListener('DOMContentLoaded', function() {
     // Fechar menu ao clicar nos links
     const menuLinks = document.querySelectorAll('.ul_navbar a');
